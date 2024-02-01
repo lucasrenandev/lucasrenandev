@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Welcome to my GitHub. I'm Lucas Renan</h1>
+<h1 align="center">👋 Hello. Welcome to my GitHub. I'm Lucas Renan. 👋</h1>
 <h3 align="center">I'm a front-end web developer from Brazil. Passionate about code and design.</h3>
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
