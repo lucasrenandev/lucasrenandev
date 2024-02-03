@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello. Welcome. I'm Lucas Renan.</h1>
-<h3 align="center">🚀 I'm a front-end web developer from Brazil.</h3>
+<h1 align="center">Hello👋, Welcome. I'm Lucas Renan.</h1>
+<h3 align="center">I'm a front-end web developer from Brazil.</h3>
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasrenandev&label=Profile%20views&color=0e75b6&style=flat" alt="lucasrenandev" /> </p>
