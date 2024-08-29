@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello👋, Welcome. I'm Lucas Renan.</h1>
-<h3 align="center">I'm a front-end web developer and UI Designer.</h3>
+<h3 align="center">I'm a Front-End Web Developer and UI Designer.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
