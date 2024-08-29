@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=header"/>
+
 <h1 align="center">Hello👋, Welcome. I'm Lucas Renan.</h1>
 <h3 align="center">I'm a front-end web developer from Brazil.</h3>
 
@@ -12,4 +12,3 @@
 
 [![My Tools](https://skillicons.dev/icons?i=windows,vscode,git,github)](https://skillicons.dev)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=footer" />
