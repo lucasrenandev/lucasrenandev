@@ -10,6 +10,6 @@
 
 <h3 align="left">My tools:</h3>
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github,windows)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=windows,vscode,git,github)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=footer" />
