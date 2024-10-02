@@ -10,5 +10,5 @@
 
 <h3 align="left">My tools:</h3>
 
-[![My Tools](https://skillicons.dev/icons?i=windows,vscode,git,github)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
